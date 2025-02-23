@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project_Clinic/static/css/main.52919036.css",
+    "main.js": "/project_Clinic/static/js/main.466629ba.js",
+    "static/media/man.png": "/project_Clinic/static/media/man.f9e259e53845d429b9ea.png",
+    "static/media/The reception hall of the clinic.jpg": "/project_Clinic/static/media/The reception hall of the clinic.56a289fdca1721102f40.jpg",
+    "static/media/fa-solid-900.ttf": "/project_Clinic/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/project_Clinic/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/project_Clinic/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/project_Clinic/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/project_Clinic/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/project_Clinic/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/project_Clinic/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/project_Clinic/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/project_Clinic/index.html",
+    "main.52919036.css.map": "/project_Clinic/static/css/main.52919036.css.map",
+    "main.466629ba.js.map": "/project_Clinic/static/js/main.466629ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52919036.css",
+    "static/js/main.466629ba.js"
+  ]
+}
