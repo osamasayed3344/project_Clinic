@@ -8,7 +8,7 @@ import React from "react";
 
 export default function App(){
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<Layout></Layout>}>
                     <Route index element={<MainPage></MainPage>}></Route>
